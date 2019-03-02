@@ -1,20 +1,23 @@
 {
   "name": "ProjectManagement",
   "version": "1.0.0",
-  "description": "",
+  "description": "项目管理自制电子书",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 0"
   },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/fengshiqi1998/ProjectManagement.git"
   },
   "keywords": [],
-  "author": "",
-  "license": "ISC",
+  "author": "fengshiqi1998",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/fengshiqi1998/ProjectManagement/issues"
   },
-  "homepage": "https://github.com/fengshiqi1998/ProjectManagement#readme"
+  "homepage": "https://github.com/fengshiqi1998/ProjectManagement#readme",
+  "devDependencies": {
+    "gitbook-cli": "^2.3.2"
+  }
 }
