@@ -1,3 +1,4 @@
 - [简介](README.md)
 - [第一章](ch01.md)
+- [第二章（上）](ch02_01.md)
 - [试炼](practice.md)
